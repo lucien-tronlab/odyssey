@@ -1,6 +1,8 @@
 *.a
 *.sw*
 
+.idea/
+
 *.cmake
 CMakeCache.txt
 CMakeFiles
